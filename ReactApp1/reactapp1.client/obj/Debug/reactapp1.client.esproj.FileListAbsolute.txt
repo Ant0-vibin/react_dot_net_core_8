@@ -1,0 +1,1 @@
+C:\Work\Doc\Project\Configurator\Web\React\DBLogin\ReactApp1\reactapp1.client\obj\Debug\reactapp1.client.esproj.CoreCompileInputs.cache

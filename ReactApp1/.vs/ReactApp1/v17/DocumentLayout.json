@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acharles\\AppData\\Local\\SourceServer\\e7510f5c2bc56b7057b0dc15771da096b64db8dcba3f47f448e8437fc0e9f783\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\CancellationToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acharles\\AppData\\Local\\SourceServer\\111622d8a57bf6b9feff2c7f4b968b4129f2de6aaf72b61cc9d31667a2380c9a\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\PoolingAsyncValueTaskMethodBuilderT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acharles\\AppData\\Local\\SourceServer\\152cfd2c70f64ddb244b1c1310b921e3073fe083a8026c8cf54e945293b7f28e\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ValueTaskAwaiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acharles\\AppData\\Local\\SourceServer\\ddf69169c24294c3a3ea3524ded14008dc92e262c21a8f54b8d6477793cc58e4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acharles\\AppData\\Local\\SourceServer\\914c43a86751ca79cb89e72ce84d428511dd8ec4d6490635784beb82467c5927\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ConfiguredValueTaskAwaitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.server\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.server\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acharles\\AppData\\Local\\SourceServer\\0ccb312c25c1295824a919eb30a467fe230dcdef304188988b24434d30dd5051\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.server\\reactapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\reactapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acharles\\AppData\\Local\\SourceServer\\f3da07d710ea871687c177ef0a3d4aa5d8f423139e553b2896f0ac300eef0bac\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.client\\src\\components\\weatherforecast.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\components\\weatherforecast.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.server\\models\\mynewentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1B0D40-EAE3-4FA4-B069-D361CA7FDE9C}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\models\\mynewentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.client\\src\\components\\logoutlink.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\components\\logoutlink.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.client\\src\\pages\\mainlayout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\pages\\mainlayout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|c:\\work\\doc\\project\\configurator\\web\\react\\dblogin\\reactapp1\\reactapp1.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E955ED1C-FDD0-42F2-8ACD-A5FA12AF8F4F}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoolingAsyncValueTaskMethodBuilderT.cs",
+              "DocumentMoniker": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\111622d8a57bf6b9feff2c7f4b968b4129f2de6aaf72b61cc9d31667a2380c9a\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\PoolingAsyncValueTaskMethodBuilderT.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\111622d8a57bf6b9feff2c7f4b968b4129f2de6aaf72b61cc9d31667a2380c9a\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\PoolingAsyncValueTaskMethodBuilderT.cs",
+              "ToolTip": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\111622d8a57bf6b9feff2c7f4b968b4129f2de6aaf72b61cc9d31667a2380c9a\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\PoolingAsyncValueTaskMethodBuilderT.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\111622d8a57bf6b9feff2c7f4b968b4129f2de6aaf72b61cc9d31667a2380c9a\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\PoolingAsyncValueTaskMethodBuilderT.cs [Read Only]",
+              "ViewState": "AQIAAHMBAAAAAAAAAAAiwIABAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:17:13.55Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValueTaskAwaiter.cs",
+              "DocumentMoniker": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\152cfd2c70f64ddb244b1c1310b921e3073fe083a8026c8cf54e945293b7f28e\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ValueTaskAwaiter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\152cfd2c70f64ddb244b1c1310b921e3073fe083a8026c8cf54e945293b7f28e\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ValueTaskAwaiter.cs",
+              "ToolTip": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\152cfd2c70f64ddb244b1c1310b921e3073fe083a8026c8cf54e945293b7f28e\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ValueTaskAwaiter.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\152cfd2c70f64ddb244b1c1310b921e3073fe083a8026c8cf54e945293b7f28e\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ValueTaskAwaiter.cs [Read Only]",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAiwH0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:17:03.006Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:18:54.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReactApp1.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T19:36:27.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValueTask.cs",
+              "DocumentMoniker": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\ddf69169c24294c3a3ea3524ded14008dc92e262c21a8f54b8d6477793cc58e4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\ddf69169c24294c3a3ea3524ded14008dc92e262c21a8f54b8d6477793cc58e4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "ToolTip": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\ddf69169c24294c3a3ea3524ded14008dc92e262c21a8f54b8d6477793cc58e4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\ddf69169c24294c3a3ea3524ded14008dc92e262c21a8f54b8d6477793cc58e4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\ValueTask.cs",
+              "ViewState": "AQIAABoDAAAAAAAAAAAiwC8DAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:38:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Program.cs",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Program.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:18:12.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CancellationToken.cs",
+              "DocumentMoniker": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\e7510f5c2bc56b7057b0dc15771da096b64db8dcba3f47f448e8437fc0e9f783\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\CancellationToken.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\e7510f5c2bc56b7057b0dc15771da096b64db8dcba3f47f448e8437fc0e9f783\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\CancellationToken.cs",
+              "ToolTip": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\e7510f5c2bc56b7057b0dc15771da096b64db8dcba3f47f448e8437fc0e9f783\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\CancellationToken.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\e7510f5c2bc56b7057b0dc15771da096b64db8dcba3f47f448e8437fc0e9f783\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\CancellationToken.cs",
+              "ViewState": "AQIAAFoBAAAAAAAAAAAiwG8BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:34:46.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\Pages\\Login.tsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Pages\\Login.tsx",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\Pages\\Login.tsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Pages\\Login.tsx",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-01T20:26:16.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\appsettings.json",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\appsettings.json",
+              "RelativeToolTip": "ReactApp1.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T19:18:10.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:20:52.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\0ccb312c25c1295824a919eb30a467fe230dcdef304188988b24434d30dd5051\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\0ccb312c25c1295824a919eb30a467fe230dcdef304188988b24434d30dd5051\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\0ccb312c25c1295824a919eb30a467fe230dcdef304188988b24434d30dd5051\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\0ccb312c25c1295824a919eb30a467fe230dcdef304188988b24434d30dd5051\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAiwP4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:46:16.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfiguredValueTaskAwaitable.cs",
+              "DocumentMoniker": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\914c43a86751ca79cb89e72ce84d428511dd8ec4d6490635784beb82467c5927\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ConfiguredValueTaskAwaitable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\914c43a86751ca79cb89e72ce84d428511dd8ec4d6490635784beb82467c5927\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ConfiguredValueTaskAwaitable.cs",
+              "ToolTip": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\914c43a86751ca79cb89e72ce84d428511dd8ec4d6490635784beb82467c5927\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ConfiguredValueTaskAwaitable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\914c43a86751ca79cb89e72ce84d428511dd8ec4d6490635784beb82467c5927\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\ConfiguredValueTaskAwaitable.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAApwJkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:09:01.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:20:54.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQBAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:21:55.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReactApp1.Server.csproj",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\ReactApp1.Server.csproj",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\ReactApp1.Server.csproj",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\ReactApp1.Server.csproj",
+              "RelativeToolTip": "ReactApp1.Server\\ReactApp1.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T19:43:19.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Dockerfile",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Dockerfile",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Dockerfile",
+              "RelativeToolTip": "ReactApp1.Server\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-16T21:26:05.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "reactapp1.client\\vite.config.ts",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\vite.config.ts",
+              "RelativeToolTip": "reactapp1.client\\vite.config.ts",
+              "ViewState": "AQIAADYAAAAAAAAAAAASwEUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T14:40:53.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AsyncTaskMethodBuilderT.cs",
+              "DocumentMoniker": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\f3da07d710ea871687c177ef0a3d4aa5d8f423139e553b2896f0ac300eef0bac\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\f3da07d710ea871687c177ef0a3d4aa5d8f423139e553b2896f0ac300eef0bac\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "ToolTip": "C:\\Users\\acharles\\AppData\\Local\\SourceServer\\f3da07d710ea871687c177ef0a3d4aa5d8f423139e553b2896f0ac300eef0bac\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\acharles\\AppData\\Local\\SourceServer\\f3da07d710ea871687c177ef0a3d4aa5d8f423139e553b2896f0ac300eef0bac\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\AsyncTaskMethodBuilderT.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAWwCABAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:47:19.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "ReactApp1.Server\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:41:39.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyNewEntity.cs",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Models\\MyNewEntity.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Models\\MyNewEntity.cs",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\ReactApp1.Server\\Models\\MyNewEntity.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Models\\MyNewEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:48:17.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.tsx",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\Components\\WeatherForecast.tsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Components\\WeatherForecast.tsx",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\Components\\WeatherForecast.tsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Components\\WeatherForecast.tsx",
+              "ViewState": "AQIAACIBAAAAAAAAAAAEwDQBAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-01T15:41:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.tsx",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\Pages\\Register.tsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Pages\\Register.tsx",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\Pages\\Register.tsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Pages\\Register.tsx",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T16:51:45.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LogoutLink.tsx",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\Components\\LogoutLink.tsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Components\\LogoutLink.tsx",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\Components\\LogoutLink.tsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Components\\LogoutLink.tsx",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T16:52:13.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\App.tsx",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\App.tsx",
+              "RelativeToolTip": "reactapp1.client\\src\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-01T20:26:22.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "reactapp1.client\\tsconfig.json",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\tsconfig.json",
+              "RelativeToolTip": "reactapp1.client\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T14:31:30.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainLayout.tsx",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\Pages\\MainLayout.tsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\Pages\\MainLayout.tsx",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\Pages\\MainLayout.tsx",
+              "RelativeToolTip": "reactapp1.client\\src\\Pages\\MainLayout.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-01T20:54:20.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\package-lock.json",
+              "RelativeDocumentMoniker": "reactapp1.client\\package-lock.json",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\package-lock.json",
+              "RelativeToolTip": "reactapp1.client\\package-lock.json",
+              "ViewState": "AQIAAKsDAAAAAAAAAAAEwLsDAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T14:49:14.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\index.css",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\index.css",
+              "ToolTip": "C:\\Work\\Doc\\Project\\Configurator\\Web\\React\\DBLogin\\ReactApp1\\reactapp1.client\\src\\index.css",
+              "RelativeToolTip": "reactapp1.client\\src\\index.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T20:25:24.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
